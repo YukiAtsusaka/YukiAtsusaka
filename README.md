@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## What I do🌴
+
+- 🐝 Studying political methodology and American politics.
+- 👸 Hosting the Rice Method Research Group in the department that I belong to
+
 <!--
 **YukiAtsusaka/YukiAtsusaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+\
