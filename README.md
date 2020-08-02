@@ -3,7 +3,7 @@
 ## What I do🌴
 
 - 🐝 Studying political methodology and American politics.
-- 👸 Hosting the Rice Method Research Group in the department that I belong to
+- 👸 Hosting the Rice Method Research Group in the department of political science.
 
 <!--
 **YukiAtsusaka/YukiAtsusaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
