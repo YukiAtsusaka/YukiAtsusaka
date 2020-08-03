@@ -1,8 +1,10 @@
-### Hi there 👋
+### Thanks for visiting my page 👋
 
 ## What I do🌴
 
-- 🐝 Studying political methodology and American politics.
+- 🐝 Studying political methodology
+- 🎃 Studying American politics
+- 🙊 **[cWise](https://github.com/YukiAtsusaka/cWise)** (R Package) (forthcoming)
 - 👸 Hosting the Rice Method Research Group in the department of political science.
 
 <br>
