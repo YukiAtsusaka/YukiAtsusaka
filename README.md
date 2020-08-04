@@ -9,7 +9,7 @@
 
 <br>
 
-## Software
+## Software🔆 
 
 - **cWise: A (Cross)Wise Method to Analyze Sensitive Survey Questions** *(forthcoming 🌱!)*
 - p.rank: An Alternative Method for Partially Ranked Data *(under preparation)*
