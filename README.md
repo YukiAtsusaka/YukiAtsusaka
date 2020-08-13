@@ -6,6 +6,7 @@
 - 🎃 Studying American politics
 - 🙊 **[cWise](https://github.com/YukiAtsusaka/cWise)** (R Package) (forthcoming)
 - 👸 Hosting the Rice Method Research Group in the department of political science.
+- 🎭 **[Working papers](https://github.com/YukiAtsusaka/working-paper)**.
 
 <br>
 
