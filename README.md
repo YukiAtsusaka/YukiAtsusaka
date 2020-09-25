@@ -16,6 +16,7 @@
 - p.rank: An Alternative Method for Partially Ranked Data *(under preparation)*
 - optEI: Optimal (Transport) Approach to Ecological Inference *(under preparation)*
 - rankid: Causal Identification for Ranked Outcomes *(under preparation)*
+- logicalmodel: Computing Quantitative Predictions of Logical Models *(under preparation)* 
 
 
 <!--
