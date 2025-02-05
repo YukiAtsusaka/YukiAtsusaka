@@ -13,4 +13,4 @@ These are packages under development.
 | [logical](https://github.com/YukiAtsusaka/logical)  | Computing and visualizing quantitative predictions of logical models. | [APSR website](https://doi.org/10.1017/S000305542100054X)
 | [cWise](https://github.com/YukiAtsusaka/cWise)      | A crosswise method to analyze sensitive survey questions. | [PA website](https://doi.org/10.1017/pan.2021.43 )
 | [rankingQ](https://sysilviakim.com/rankingQ/)       | Design-based methods for improving ranking questions. | [Preprint](https://osf.io/3ys8x)
-| [neodowns](https://github.com/YukiAtsusaka/neodowns)| Simulating candidate competition in group-based elections. | Preprint forthcoming.
+| [neodowns](https://github.com/YukiAtsusaka/neodowns)| Simulating candidate competition in group-based elections. | [Preprint](https://osf.io/62t3b_v1)
