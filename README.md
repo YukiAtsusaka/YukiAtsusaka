@@ -10,7 +10,7 @@ These are packages under development.
 
 | Package | Description | Paper |
 | ------- | ----------- | ------|
-| [logical](https://github.com/YukiAtsusaka/logical)  | Computing and visualizing quantitative predictions of logical models. | [APSR website](https://doi.org/10.1017/S000305542100054X)
-| [cWise](https://github.com/YukiAtsusaka/cWise)      | A crosswise method to analyze sensitive survey questions. | [PA website](https://doi.org/10.1017/pan.2021.43 )
-| [rankingQ](https://sysilviakim.com/rankingQ/)       | Design-based methods for improving ranking questions. | [PA website](https://doi.org/10.1017/pan.2024.33 )
+| [logical](https://github.com/YukiAtsusaka/logical)  | Computing and visualizing quantitative predictions of logical models. | [American Political Science Review website](https://doi.org/10.1017/S000305542100054X)
+| [cWise](https://github.com/YukiAtsusaka/cWise)      | A crosswise method to analyze sensitive survey questions. | [Political Analysis website](https://doi.org/10.1017/pan.2021.43 )
+| [rankingQ](https://sysilviakim.com/rankingQ/)       | Design-based methods for improving ranking questions. | [Political Analysis website](https://doi.org/10.1017/pan.2024.33 )
 | [neodowns](https://github.com/YukiAtsusaka/neodowns)| Simulating candidate competition in group-based elections. | [Preprint](https://osf.io/62t3b_v1)
