@@ -2,7 +2,7 @@
 
 I am Assistant Professor in the Hobby School of Public Affairs at the University of Houston. I research electoral systems, race and representation, and political methodology. This readme file introduces my datasets and several packages of mine under development. For more information on my research, please visit my [website](https://atsusaka.org/) or [CV](https://www.dropbox.com/scl/fi/ypyoz5dw6izcm20iumsby/CV_YukiAtsusaka.pdf?rlkey=bs7lw1k1kmvvgz40uf066zden&st=kns2szyp&dl=0).
 
-## Datasets
+## Data
 | Data | Description | Related Link |
 | ------- | ----------- | ------|
 | [archive](https://doi.org/10.7910/DVN/RBWU92)  | Standardized tabulated results of American ranked-choice voting elections. | [Atsusaka and Holbrook (2026)](http://www.archive-rcv.com/)
