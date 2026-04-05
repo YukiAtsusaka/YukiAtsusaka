@@ -9,7 +9,7 @@ Welcome to my GitHub page! I am Assistant Professor in the Hobby School of Publi
 
 >
 
-## Packages under development
+## Packages 
 
 These are packages under development.
 
