@@ -5,7 +5,7 @@ Welcome to my GitHub page! I am Assistant Professor in the Hobby School of Publi
 ## Data
 | Data | Description | Related Link |
 | ------- | ----------- | ------|
-| [archive]([https://doi.org/10.7910/DVN/RBWU92](http://www.archive-rcv.com/))  | Standardized tabulated results of American ranked-choice voting elections. | [Atsusaka and Holbrook (2026)](https://www.nature.com/articles/s41597-026-07623-3)
+| [archive](http://www.archive-rcv.com)  | Standardized tabulated results of American ranked-choice voting elections. | [Atsusaka and Holbrook (2026)](https://www.nature.com/articles/s41597-026-07623-3)
 
 >
 
