@@ -6,6 +6,7 @@ Welcome to my GitHub page! I am Assistant Professor in the Hobby School of Publi
 | Data | Description | Related Link |
 | ------- | ----------- | ------|
 | [archive](http://www.archive-rcv.com)  | Standardized tabulated results of American ranked-choice voting elections. | [Atsusaka and Holbrook (2026)](https://www.nature.com/articles/s41597-026-07623-3)
+| [PRD](https://political-rankings.github.io/)  | Ranking data in political science. | Atsusaka and Singh (2026)
 
 >
 
