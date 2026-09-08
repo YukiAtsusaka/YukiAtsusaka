@@ -14,11 +14,11 @@ Welcome to my GitHub page! I am Assistant Professor in the Hobby School of Publi
 
 These are packages under development.
 
-| Package | Description | Related Link | Cycle |
+| Package | Description | Related Link | Availability |
 | ------- | ----------- | ------| ------|
-| [rankingQ](http://sysilviakim.com/rankingQ/)       | Estimate Ranking-Based Quantities with Bias Correction. | [Atsusaka and Kim (2025)](https://doi.org/10.1017/pan.2024.33 ) | Released on CRAN
+| [rankingQ](http://sysilviakim.com/rankingQ/)       | Estimate Ranking-Based Quantities with Bias Correction. | [Atsusaka and Kim (2025)](https://doi.org/10.1017/pan.2024.33 ) | CRAN
 | [logical](https://github.com/YukiAtsusaka/logical)  | Computing and visualizing quantitative predictions of logical models. | [Atsusaka (2021)](https://doi.org/10.1017/S000305542100054X) | GitHub version
-| [cWise](https://github.com/YukiAtsusaka/cWise)      | A crosswise method to analyze sensitive survey questions. | [Atsusaka and Stevenson (2023)](https://doi.org/10.1017/pan.2021.43 ) | Github version
+| [cWise](https://github.com/YukiAtsusaka/cWise)      | A crosswise method to analyze sensitive survey questions. | [Atsusaka and Stevenson (2023)](https://doi.org/10.1017/pan.2021.43 ) | Submitted to CRAN
 
 
 
