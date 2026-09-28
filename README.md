@@ -17,8 +17,10 @@ These are packages under development.
 | Package | Description | Related Link | Availability |
 | ------- | ----------- | ------| ------|
 | [rankingQ](http://sysilviakim.com/rankingQ/)       | Estimate Ranking-Based Quantities with Bias Correction. | [Atsusaka and Kim (2025)](https://doi.org/10.1017/pan.2024.33 ) | CRAN
-| [logical](https://github.com/YukiAtsusaka/logical)  | Computing and visualizing quantitative predictions of logical models. | [Atsusaka (2021)](https://doi.org/10.1017/S000305542100054X) | GitHub version
-| [cWise](https://github.com/YukiAtsusaka/cWise)      | A crosswise method to analyze sensitive survey questions. | [Atsusaka and Stevenson (2023)](https://doi.org/10.1017/pan.2021.43 ) | CRAN
+| [cWise](https://github.com/YukiAtsusaka/cWise)      | A crosswise Method to Analyze Sensitive Survey Questions. | [Atsusaka and Stevenson (2023)](https://doi.org/10.1017/pan.2021.43 ) | CRAN
+| [logical](https://github.com/YukiAtsusaka/logical)  | Computing and Visualizing Quantitative Predictions of Logical Models. | [Atsusaka (2021)](https://doi.org/10.1017/S000305542100054X) | GitHub version
+| [logical](https://logical-model.github.io/)  | Website for {logical}. | -- | --
+
 
 
 
